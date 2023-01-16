@@ -5,7 +5,7 @@ Implemented data pipelines using streaming Twitter API, Tweepy, OAuth, SQL, Pyth
 Automated sentiment analysis using RE, TextBlob, and NLTK based on tokenization, lemmatization, and stemming and created an interactive dashboard using Plotly and Tableau. 
 
 
-![Web_App_GIF_Aug23](https://user-images.githubusercontent.com/68578215/197821578-30607bf5-4b83-4a3b-a65f-54a1b35679d4.gif)
+
 
 1. Collecting Twitter Data using Streaming Twitter API with Tweepy, MySQL, & Python
 2. Twitter Sentiment Analysis and Interactive Data Visualization using RE, TextBlob, NLTK, and Plotly
