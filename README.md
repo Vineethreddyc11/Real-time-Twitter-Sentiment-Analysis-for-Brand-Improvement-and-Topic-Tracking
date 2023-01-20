@@ -22,5 +22,3 @@ The solution for evaluating Twitter data to perform better business decisions is
 4. Deploy the real-time interactive front-end web app using Dash & Heroku PostgreSQL on Heroku server
 5. Build ETL pipelines based on stream processing using Kafka (In Progress)
 6. Perform sentiment analysis using Spark Streaming (In Progress)
-
-![Screen Shot 2022-10-25 at 8 49 42 AM](https://user-images.githubusercontent.com/68578215/197822792-716cbb5a-4710-48ba-81dc-378ecad15f89.png)
